@@ -3,6 +3,8 @@
     
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
-    <p>Version 2 </p>
+    <p class="text-3xl font-bold underline">Version 2 </p>
+    <p> add TW  </p>
   </div>
 </template>
+ 
